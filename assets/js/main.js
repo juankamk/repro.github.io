@@ -16,18 +16,17 @@ const playBtn = document.querySelector(".play"),
 
 this.tracks = [
     {
-        name: "Save Your Tears",
-        artist: "The Weeknd",
-        cover: "https://storage.googleapis.com/hello_api/3037271.jpg",
-        source: "https://storage.googleapis.com/hello_api/save%20your.mp3",
-    },
-    {
         name: "Ojitos Lindos",
         artist: "Bad Bunny",
         cover: "https://storage.googleapis.com/hello_api/bad.jpg",
         source: "https://storage.googleapis.com/hello_api/ojitos.mp3",
     },
-    
+     {
+        name: "Save Your Tears",
+        artist: "The Weeknd",
+        cover: "https://storage.googleapis.com/hello_api/3037271.jpg",
+        source: "https://storage.googleapis.com/hello_api/save%20your.mp3",
+    }
 ];
 
 // Valores de inicio
